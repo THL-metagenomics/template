@@ -1,4 +1,4 @@
-# Turku Data Science Group Project Template
+# Project Template
 
 This is a generic template, forked from COMHIS project. Clone and rewrite to start a project with the template.
 
